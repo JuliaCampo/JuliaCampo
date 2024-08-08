@@ -1,11 +1,8 @@
-# Olá!
+# Olá! 😸
 # Bem vindo ao meu perfil!
 ## Eu sou a Fields :>
 
-Sou programador na area de desenvolvimento de sistemas, no processo de me formar no curso da unidade SENAI - Jacob Lafer.
-
-## 🚀 
-
+Sou programadora na area de desenvolvimento de sistemas, no processo de me formar no curso da unidade SENAI - Jacob Lafer.
 
 ## 🛠 Habilidades
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
